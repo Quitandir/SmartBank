@@ -1,0 +1,13 @@
+.campoValor {
+    margin: 0.5rem;
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 50%;
+    border: none;
+    text-align: center;
+    border-radius: 5px;
+    outline:none;
+    border-radius: 10px;
+    align-items: center;
+}
+
