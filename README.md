@@ -11,7 +11,7 @@ Parte das funcionalidades dessa aplicação foram usadas para estudo durante um 
 
 ## Como acessar o projeto
 
-Acesse aqui:
+Acesse aqui: https://smart-bank-68n0plker-quitandir.vercel.app/
 
 ## Tecnologias
 
