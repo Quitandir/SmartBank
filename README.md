@@ -1,4 +1,5 @@
 # Smart Bank
+![SmartBank](https://github.com/Quitandir/SmartBank/assets/109114941/1e4be977-1327-4f2f-8fc2-a15ba841c821)
 
 Smart Bank é uma aplicação simples para gerenciar entrada e saída de sua conta, controlando seu saldo através de um extrato com seus gastos e entrada de dinheiro. 
 
